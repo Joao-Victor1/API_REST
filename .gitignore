@@ -1,3 +1,5 @@
 /vendor
-/composer.loc
+/composer.lock
 /composer.json
+/composer-setup.php
+/composer.phar

@@ -4,8 +4,6 @@ namespace Api\Models;
 
 use Api\Config\Database;
 
-use function PHPUnit\Framework\throwException;
-
 class UserModel
 {
     private $db;

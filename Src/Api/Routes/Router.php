@@ -8,7 +8,7 @@ $userController = new UsersController();
 
 $routes = [
     '/api/users' =>[
-        'GET' => [$userController, 'get']
+        'GET' => [$userController::class, 'get']
     ]
 ];
 
